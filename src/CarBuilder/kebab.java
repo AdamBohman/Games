@@ -1,6 +1,6 @@
 package CarBuilder;
 
-public class car {
+public class kebab {
 
 
     public void carMaker() {
